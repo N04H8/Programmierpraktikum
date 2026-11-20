@@ -2,7 +2,7 @@
 
 int main()
 {
-	int a;
+	unsigned long long int a;
 
 	printf("Größe in Bit: %zu\n", sizeof(a) * 8 );
 }

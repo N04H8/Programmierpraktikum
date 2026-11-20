@@ -3,6 +3,7 @@
 int main()
 {
 
+	signed short a = 5;
 
 	// Test auf Wortbreite und Initialisierung
 	printf("Größe in Bit: %zu\n", sizeof(a) * 8 );	// 16

@@ -2,7 +2,7 @@
 
 int main()
 {
-
+	unsigned int a = 123;
 
 	// Test auf Wortbreite und Initialisierung
 	printf("Größe in Bit: %zu\n", sizeof(a) * 8 );	// 32
