@@ -12,6 +12,6 @@ int main()
 
 	// Hier Ergebnis in der Form "c: 0x123" inkl. Zeilenumbruch ausgeben
 
-	printf("c: %#a\n", (double) c);
+	printf("c: %#x\n", (int) c);
 
 }
