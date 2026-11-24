@@ -2,5 +2,5 @@
 
 int main()
 {
-	printf("ß: %s\n", "hier Hex-Werte einfügen");
+	printf("ß: %s\n", "ToDo: Hier Hex-Werte einfügen");
 }
