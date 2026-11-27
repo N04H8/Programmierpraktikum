@@ -4,6 +4,7 @@
 int main()
 {
 
+	uint16_t a = 0x8765;
 
 	a = a + a;
 

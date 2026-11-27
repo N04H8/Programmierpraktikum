@@ -2,5 +2,5 @@
 
 int main()
 {
-	printf("ß: %s\n", "ToDo: Hier Hex-Werte einfügen");
+	printf("ß: %s\n", "\xc3\x9f\x0a");
 }
